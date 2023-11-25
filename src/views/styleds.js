@@ -14,6 +14,7 @@ export const FormContainer = styled.div`
 export const NameInput = styled.input`
   width: 200px;
   border-radius: 5px;
+  height: 30px;
   border: none;
 `;
 
